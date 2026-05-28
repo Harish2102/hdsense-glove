@@ -66,10 +66,6 @@ Full project poster - includes KiCad PCB rendering (Fig. 3) and MATLAB sensor he
 | -------- | ----------- |
 | [Final Pitch Deck](docs/HDSense%20Glove%20Final%20Pitch.pdf) | Product pitch and system overview |
 | [Project Poster](docs/Harish_Poster_Final.pdf) | Full project summary poster |
-| [Patent Draft](docs/Patent_Harish_Balasubramanian.pdf) | Provisional patent application |
-| [Patent Search](docs/Patent_Search_Harish_Balasubramanian.pdf) | Prior art landscape |
-| [Idea Proposal](docs/Idea_Proposal_Harish_Balasubramanian.pdf) | Original concept proposal |
-| [Market Research](docs/Market_research.pdf) | Competitive analysis |
 
 ---
 
